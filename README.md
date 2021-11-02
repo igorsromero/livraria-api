@@ -37,7 +37,7 @@ nest -v
 
 Criar um projeto com Nest:
 ```
-nest new produtos-api
+nest new livraria-api
 ```
 
 Iniciar projeto:
