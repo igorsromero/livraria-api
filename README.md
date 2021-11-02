@@ -45,6 +45,11 @@ Iniciar projeto:
 npm run start
 ```
 
+Iniciar um projeto com reload automático:
+```
+npm run start:dev
+```
+
 Alguns arquivos foram deletados nesse repositório, são eles:
 ```
 app.controller.spec
