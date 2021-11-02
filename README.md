@@ -44,6 +44,13 @@ Iniciar projeto:
 ```
 npm run start
 ```
+
+Alguns arquivos foram deletados nesse repositório, são eles:
+```
+app.controller.spec
+pasta /src/testes
+```
+
 </details>
 
 
