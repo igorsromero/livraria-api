@@ -56,6 +56,23 @@ app.controller.spec
 pasta /src/testes
 ```
 
+Integrando banco de dados MySQL:
+
+Criar o banco de dados da livraria:
+```
+CREATE DATABASE LIVRARIA;
+```
+
+Instalar o Sequelize:
+```
+npm install --save @nestjs/sequelize sequelize@5 sequelize-typescript mysql2
+```
+
+Instalar os Types do Sequelize:
+```
+npm install --save-dev @types/sequelize
+```
+
 </details>
 
 
