@@ -73,6 +73,11 @@ Instalar os Types do Sequelize:
 npm install --save-dev @types/sequelize
 ```
 
+Instalando técnicas de configuração .env:
+```
+npm i --save @nestjs/config
+```
+
 </details>
 
 
